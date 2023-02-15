@@ -1,0 +1,23 @@
+{
+  "name": "vitest-semantic-ui-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vite": "vite",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@preact/preset-vite": "^2.5.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-preact-pure": "^4.1.0",
+    "happy-dom": "^8.4.0",
+    "preact": "^10.12.1",
+    "semantic-ui-react": "^2.1.4",
+    "vite": "^4.1.1",
+    "vitest": "^0.28.5"
+  }
+}
