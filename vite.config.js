@@ -11,7 +11,7 @@ export default defineConfig({
   root: './src', // root path from the build tool's perspective
   build: {
     rollupOptions: {
-      input: 'src/Counter.jsx'
+      input: 'src/main.jsx'
     }
   },
   test: {
